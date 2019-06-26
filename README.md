@@ -1,3 +1,3 @@
 # Numberguesser
 
-A small number guessing game
+A small number guessing game.
